@@ -1,3 +1,7 @@
+## How to set up
+    - install postgres
+    - create table according the entity in domain package
+    - bring up the project :D
 ## Create spring boot backend
     - connect postgresql (connection pool with hikari in applicaiton.yml)
     - CRUD
